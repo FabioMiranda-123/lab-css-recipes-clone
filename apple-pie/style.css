@@ -11,7 +11,7 @@ body{
     padding-bottom: 30px;
 }
 
-.title{
+#title{
     background-image: url("images/apple-pie.jpg");
     background-size: cover;
     height: 50vh;
@@ -36,7 +36,7 @@ h1{
     font-family: Verdana, sans-serif;
 }
 
-.image2 {
+#image2 {
     height: 6vh;
     margin: 0 auto;
     display: block;
@@ -65,7 +65,7 @@ ul li::before {
     margin-left: 60px;
 }
 
-.image3 {
+#image3 {
     height: 7vh;
     margin: 0 auto;
     display: flex;
